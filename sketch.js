@@ -1,5 +1,6 @@
 var bg,bg2,form,system,code,security;
 var score=0;
+var bgSong;
 
 function preload() {
   bg = loadImage("aladdin_cave.jpg");
