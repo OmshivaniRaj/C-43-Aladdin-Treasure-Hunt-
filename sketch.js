@@ -29,6 +29,7 @@ function draw() {
     stroke("blue");
     fill("black");
     textSize(40);
+    bgSong.play();
     text("👍❤️TREASURE UNLOCKED❤️👍",250, 200);
 
   }
